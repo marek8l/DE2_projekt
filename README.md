@@ -76,9 +76,11 @@ OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřen
 </div>
 
 ### NMOS tranzistor IRF540 TO-220
+NMOS tranzistor plní funkci spínače. Při překročení thresholdu se vyšle signál z PINu 9 na GATE tranzistoru, což otevře tranzistor, a tím se spustí ventilátor.
+
 <div align="center">
- 
-![OLED displej](https://github.com/marek8l/DE2_projekt/blob/main/images/IFR540.jpg)
+
+![IRF540](https://github.com/marek8l/DE2_projekt/blob/main/images/IFR540.jpg)
 <br>
 <i>obrázek č. 6 - NMOS IRF540 </i>
 <br>
