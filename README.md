@@ -19,31 +19,36 @@ Použitý hardware:
 <br>
 
 ![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.jpg)
-<i>schéma zapojení</i> 
+<i>obrázek č. 1 - schéma zapojení</i> 
 
 ### Senzor půdní vlhkosti (Půdní analogový vlhkoměr s antikorozní sondou v2.0)
 
 Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme analogová data, je nutné je převést na digitální pomocí ADC převodníku (ADC knihovna). Získaná digitální data jsou dále zpracována a využívána k určení stavu vlhkosti půdy. Aktuální stav vlhkosti je zobrazen na OLED displeji, stejně tak jako v konzoli pomocí sběrnice UART. V případě dostatečné vlhkosti je zobrazeno na displeji stav "WET". V opačném případě je zobrazen stav "DRY" a také se zobrazí výstražná zpráva  "WATER ME" a dojde k blikání displeje.<br>
 
 ![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg)
+<i>obrázek č. 2 - Senzor půdní vlhkosti</i> 
 
 ### Teplotní a vlhkostní senzor DHT12
 
 Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento senzor posílá digitální data, která dále zpracováváme a následně zobrazujeme na OLED displeji aktuální hodnoty teploty v °C a vlhkost ovzduší v %. Podle vyhodnocení těchto hodnot dojde při velké teplotě k spuštění ventilátoru, který sníží teplotu. Naopak při nízké teplotě, dojde k rozsvícení LED diody, která reprezentuje IR ohřívač (vyhřívání). Již zmíněný ventilátor je napájen pomocí externího zdroje s napětím 5,4V. K Jeho ovládání byl použit NMOS tranzistor IRF540 TO-220, který je připojen k digitálnímu vstupu 9.<br>
 
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
+![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
+<i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i> 
+![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
+<i>obrázek č. 4 - DC ventilátor (5V)</i>
 
-### Světelný senzor BH1750
+### Senzor intenzity osvětlení BH1750
 
 Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji. Tato data jsou zde používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity světla. V případě nizké intenzity světla dojde k rozsvícení diody. Pokud je hodnota světla dostačující, dioda zůstává vypnuta.<br>
 
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/bh1750.jpg)
+![Senzor intenzity osvětlení](https://github.com/marek8l/DE2_projekt/blob/main/bh1750.jpg)
+<i>obrázek č. 5 - Senzor intenzity osvětlení</i> 
 
 ### OLED displej 
 OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřených veličin. Také se používá k zobrazení hodnot, které chceme nastavit, jako hranice u kterých dojde k spuštění procesů jako jsou chlazení, ohřev atd.<br>
 
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/oled.jpg)
+![OLED displej](https://github.com/marek8l/DE2_projekt/blob/main/oled.jpg)
+<i>obrázek č. 6 - OLED displej </i> 
 
 ## Popis Softwaru
 
