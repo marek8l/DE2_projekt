@@ -16,9 +16,6 @@ Použitý hardware:
 * Chladící ventilátor - 5V, 30 mm
 * Senzor intenzity světla BH1750
 
-* Zde bude fotka celého zapojení
-* Připsat Piny k LED atd.
-  
 <br>
 Cílem projektu je vytvořit automatický systém pro zajištění vhodných podmínek pro pěstování tropických rostlin. Všechny komponenty kromě půdního senzoru jsou propojeny skrze I2C sériovou sběrnici.
 <br>
