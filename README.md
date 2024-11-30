@@ -19,7 +19,10 @@ Použitý hardware:
 
 <br>
 
-<div align="center">![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.jpg)</div>
+<div align="center">
+ 
+ ![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.jpg)
+</div>
 <div align="center"><i>obrázek č. 1 - schéma zapojení</i></div>
 
 ### Senzor půdní vlhkosti (Půdní analogový vlhkoměr s antikorozní sondou v2.0)
