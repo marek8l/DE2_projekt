@@ -38,10 +38,14 @@ Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento sen
 
 ### Světelný senzor BH1750
 
-Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji. Tato data jsou zde používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity světla. V případě nizké intenzity světla dojde k rozsvícení diody. Pokud je hodnota světla dostačující, dioda zůstává vypnuta.
+Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji. Tato data jsou zde používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity světla. V případě nizké intenzity světla dojde k rozsvícení diody. Pokud je hodnota světla dostačující, dioda zůstává vypnuta.<br>
+
+![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/bh1750.jpg)
 
 ### OLED displej 
-OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřených veličin. Také se používá k zobrazení hodnot, které chceme nastavit, jako hranice u kterých dojde k spuštění procesů jako jsou chlazení, ohřev atd.
+OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřených veličin. Také se používá k zobrazení hodnot, které chceme nastavit, jako hranice u kterých dojde k spuštění procesů jako jsou chlazení, ohřev atd.<br>
+
+![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/oled.jpg)
 
 ## Popis Softwaru
 
