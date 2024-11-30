@@ -52,13 +52,17 @@ OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřen
 Include flowcharts/state diagrams of your algorithm(s) and direct links to the source files in PlatformIO `src` or `lib` folders. Present the libraries you used in the project.
 
 ## Instrukce a fotky
-<br>
+
 1.Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.
 <br>
 2.Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.
+<br>
 4.Připojte desku Arduino k napájecímu zdroji.
+<br>
 5.V konzoli nastavíme hodnoty na které se nás zeptá UART.
+<br>
 6.Pokud budeme chtít hodnoty změnit, zmáčkneme tlačítko RESET na desce arduina a znovu provedeme krok 5.
+<br>
  Add photos or videos of your application.
 
 ##  Reference a nástroje
