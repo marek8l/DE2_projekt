@@ -38,7 +38,15 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 
 ## Instrukce a fotky
 
-Describe how to use the application. Add photos or videos of your application.
+1.Připojte desku Arduino k napájecímu zdroji.
+2.Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.
+3.Nastavíme ventilátor aby správně chladil.
+<br>
+1.Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.
+2.Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.
+4.Připojte desku Arduino k napájecímu zdroji. 
+<br>
+ Add photos or videos of your application.
 
 ##  Reference a nástroje
 
