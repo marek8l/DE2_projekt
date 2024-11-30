@@ -31,7 +31,7 @@ Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme anal
 
 <div align="center">
  
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg)
+![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg) <br>
 <i>obrázek č. 2 - Senzor půdní vlhkosti</i>
 </div>
 
