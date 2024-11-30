@@ -21,7 +21,7 @@ Použitý hardware:
 
 <div align="center">
  
- ![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.jpg)
+ ![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/images/schema_zapojeni.jpg)
 </div>
 <div align="center"><i>obrázek č. 1 - schéma zapojení</i></div>
 
@@ -31,7 +31,7 @@ Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme anal
 
 <div align="center">
  
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg)
+![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/images/analog_senzor.jpg)
 <br>
 <i>obrázek č. 2 - Senzor půdní vlhkosti</i>
 </div>
@@ -42,11 +42,11 @@ Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento sen
 
 <div align="center">
  
-![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
+![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/images/dht12.jpg)
 <br>
 <i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i>
 <br>
-![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
+![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/images/ventilátor.jpg)
 <br>
 <i>obrázek č. 4 - DC ventilátor (5V)</i>
 <br>
@@ -59,7 +59,7 @@ Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná 
 
 <div align="center">
  
-![Senzor intenzity osvětlení](https://github.com/marek8l/DE2_projekt/blob/main/bh1750.jpg)
+![Senzor intenzity osvětlení](https://github.com/marek8l/DE2_projekt/blob/main/images/bh1750.jpg)
 <br>
 <i>obrázek č. 5 - Senzor intenzity osvětlení</i>
 <br>
@@ -70,7 +70,7 @@ OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřen
 
 <div align="center">
  
-![OLED displej](https://github.com/marek8l/DE2_projekt/blob/main/oled.jpg)
+![OLED displej](https://github.com/marek8l/DE2_projekt/blob/main/images/oled.jpg)
 <br>
 <i>obrázek č. 6 - OLED displej </i>
 <br>
