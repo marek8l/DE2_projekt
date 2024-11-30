@@ -29,12 +29,13 @@ Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme anal
 
 ### Teplotní a vlhkostní senzor DHT12
 
-Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento senzor posílá digitální data, která zpracováváme a následně zobrazujeme na OLED displeji aktuální hodnoty teploty v °C a vlhkost ovzduší v %. Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji.
-<br>
+Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento senzor posílá digitální data, která dále zpracováváme a následně zobrazujeme na OLED displeji aktuální hodnoty teploty v °C a vlhkost ovzduší v %. Podle vyhodnocení těchto hodnot dojde při velké teplotě k spuštění ventilátoru, který sníží teplotu. Naopak při nízké teplotě, dojde k rozsvícení LED diody, která reprezentuje IR ohřívač (vyhřívání). Již zmíněný ventilátor je napájen pomocí externího zdroje s napětím 5,4V. K Jeho ovládání byl použit NMOS tranzistor IRF540 TO-220, který je připojen k digitálnímu vstupu 9.
 
+### Světelný senzor BH1750
+
+Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji.
 a také jsou používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity světla. V případě nizké intenzity světla dojde k rozsvícení diody. Pokud je hodnota světla dostačující, dioda zůstává vypnuta.
 
-Podle vyhodnocení těchto hodnot, dojde při velké teplotě k spuštění ventilátoru, který by měl snížit teplotu. Naopak při nízké teplotě, dojde k rozsvícení LED diody, která reprezentuje IR ohřívač (vyhřívání). Již zmíněný ventilátor je napájen pomocí externího zdroje 5,4V a k jeho ovládání byl použit NMOS tranzistor IRF540 TO-220, jeho k digitálnímu vstupu 9.
 
 ## Popis Softwaru
 
