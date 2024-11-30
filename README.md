@@ -39,10 +39,14 @@ Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme anal
 
 Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento senzor posílá digitální data, která dále zpracováváme a následně zobrazujeme na OLED displeji aktuální hodnoty teploty v °C a vlhkost ovzduší v %. Podle vyhodnocení těchto hodnot dojde při velké teplotě k spuštění ventilátoru, který sníží teplotu. Naopak při nízké teplotě, dojde k rozsvícení LED diody, která reprezentuje IR ohřívač (vyhřívání). Již zmíněný ventilátor je napájen pomocí externího zdroje s napětím 5,4V. K Jeho ovládání byl použit NMOS tranzistor IRF540 TO-220, který je připojen k digitálnímu vstupu 9.<br>
 
+<div align="center">
+ 
 ![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
 <i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i> 
 ![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
 <i>obrázek č. 4 - DC ventilátor (5V)</i>
+
+</div>
 
 ### Senzor intenzity osvětlení BH1750
 
