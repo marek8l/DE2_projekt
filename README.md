@@ -77,7 +77,13 @@ OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřen
 </div>
 
 ### NMOS tranzistor IRF540 TO-220
-
+<div align="center">
+ 
+![OLED displej](https://github.com/marek8l/DE2_projekt/blob/main/images/IFR540.jpg)
+<br>
+<i>obrázek č. 6 - NMOS IRF540 </i>
+<br>
+</div>
 
 ## Popis Softwaru
 
