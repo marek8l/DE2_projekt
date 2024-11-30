@@ -1,5 +1,5 @@
 # Digitální Electronika 2 - PROJEKT
-Měření/Ovládání/Vizualizace prostředí tropických kytek
+Systém pro měření/Ovládání/Vizualizace prostředí tropických kytek
 
 ## Členové týmu
 
