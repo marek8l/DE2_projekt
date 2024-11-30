@@ -39,11 +39,15 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 ## Instrukce a fotky
 
 1.Připojte desku Arduino k napájecímu zdroji.
+<br>
 2.Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.
+<br>
 3.Nastavíme ventilátor aby správně chladil.
 <br>
 1.Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.
+<br>
 2.Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.
+<br>
 4.Připojte desku Arduino k napájecímu zdroji. 
 <br>
  Add photos or videos of your application.
