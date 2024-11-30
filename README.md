@@ -1,9 +1,7 @@
-# DE2 PROJEKT
+# Digital Electronics 2 - PROJEKT
 Measurement/Control/Visualization of the environment for tropical plants
-Digital Electronics 2 - Project
-# Recommended README.md file structure
 
-### Team members
+## Team members
 
 * Petr Kaplan
 * Marek Ivan
