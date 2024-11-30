@@ -9,6 +9,14 @@ Measurement/Control/Visualization of the environment for tropical plants
 * Mirek Trchalík
 
 ## Hardware description
+Použitý hardware:
+* I2C teplotní a vlhkostní senzor DHT12
+* Půdní analogový vlhkoměr s antikorozní sondou v2.0
+* I2C OLED displej 1,3" 128 x 64
+* Chladící ventilátor - 5V, 30 mm
+* Senzor intenzity světla BH1750
+
+
 
 Describe your implementation and include block or circuit diagram(s).
 
