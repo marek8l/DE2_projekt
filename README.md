@@ -31,7 +31,8 @@ Půdní senzor je připojen k analogovému vstupu A0, jelikož získáváme anal
 
 <div align="center">
  
-![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg) <br>
+![analog_senzor](https://github.com/marek8l/DE2_projekt/blob/main/analog_senzor.jpg)
+<br>
 <i>obrázek č. 2 - Senzor půdní vlhkosti</i>
 </div>
 
@@ -41,10 +42,14 @@ Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento sen
 
 <div align="center">
  
-![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg) <br>
-<i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i> <br>
-![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg) <br>
-<i>obrázek č. 4 - DC ventilátor (5V)</i> <br>
+![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
+<br>
+<i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i>
+<br>
+![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
+<br>
+<i>obrázek č. 4 - DC ventilátor (5V)</i>
+<br>
 
 </div>
 
