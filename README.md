@@ -1,5 +1,5 @@
 # Digitální Electronika 2 - PROJEKT
-Systém pro měření/ovládání/vizualizace prostředí tropických kytek.<br>
+Systém pro měření/ovládání/vizualizace prostředí tropických rostlin.<br>
 Cílem tohoto projektu je vytvořit automatický systém pro zajištění vhodných podmínek pro pěstování tropických rostlin. Všechny komponenty kromě půdního senzoru jsou propojeny skrze I2C sériovou sběrnici.
 ## Členové týmu
 
