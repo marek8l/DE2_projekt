@@ -41,9 +41,9 @@ Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento sen
 
 <div align="center">
  
-![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg)
+![Teplotní a vlhkostní senzor DHT12](https://github.com/marek8l/DE2_projekt/blob/main/dht12.jpg) <br>
 <i>obrázek č. 3 - Teplotní a vlhkostní senzor DHT12</i> 
-![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg)
+![Ventilátor](https://github.com/marek8l/DE2_projekt/blob/main/ventil%C3%A1tor.jpg) <br>
 <i>obrázek č. 4 - DC ventilátor (5V)</i>
 
 </div>
