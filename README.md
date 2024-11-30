@@ -76,6 +76,9 @@ OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřen
 <br>
 </div>
 
+### NMOS tranzistor IRF540 TO-220
+
+
 ## Popis Softwaru
 
 Include flowcharts/state diagrams of your algorithm(s) and direct links to the source files in PlatformIO `src` or `lib` folders. Present the libraries you used in the project.
