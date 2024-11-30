@@ -5,9 +5,10 @@ Digital Electronics 2 - Project
 
 ### Team members
 
-* Member 1 (responsible for ...)
-* Member 2 (responsible for ...)
-* Member 3 (responsible for ...)
+* Petr Kaplan
+* Marek Ivan
+* Jakub Křivánek
+* Mirek Trchalík
 
 ## Hardware description
 
