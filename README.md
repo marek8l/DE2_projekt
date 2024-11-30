@@ -1,6 +1,6 @@
 # Digitální Electronika 2 - PROJEKT
-Systém pro měření/ovládání/vizualizace prostředí tropických kytek.
-
+Systém pro měření/ovládání/vizualizace prostředí tropických kytek.<br>
+Cílem tohoto projektu je vytvořit automatický systém pro zajištění vhodných podmínek pro pěstování tropických rostlin. Všechny komponenty kromě půdního senzoru jsou propojeny skrze I2C sériovou sběrnici.
 ## Členové týmu
 
 * Petr Kaplan
@@ -16,8 +16,6 @@ Použitý hardware:
 * Chladící ventilátor - 5V, 30 mm
 * Senzor intenzity světla BH1750
 
-<br>
-Cílem projektu je vytvořit automatický systém pro zajištění vhodných podmínek pro pěstování tropických rostlin. Všechny komponenty kromě půdního senzoru jsou propojeny skrze I2C sériovou sběrnici.<br>
 <br>
 
 ![schéma zapojení](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.jpg)
