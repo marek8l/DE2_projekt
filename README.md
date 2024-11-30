@@ -19,7 +19,7 @@ Použitý hardware:
 <br>
 Cílem projektu je vytvořit automatický systém pro zajištění vhodných podmínek pro pěstování tropických rostlin. Všechny komponenty kromě půdního senzoru jsou propojeny skrze I2C sériovou sběrnici.
 <br>
-![schema_zapojeni](Miro sem dej odkaz na obrázek)
+![schema_zapojeni](https://github.com/marek8l/DE2_projekt/blob/main/schema_zapojeni.png)
 
 ### Senzor půdní vlhkosti (Půdní analogový vlhkoměr s antikorozní sondou v2.0)
 
