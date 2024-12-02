@@ -101,5 +101,8 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 
 ##  Reference a nástroje
 
-1. [Datasheeet of Ambient Light Sensor I2C](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf?srsltid=AfmBOopXsNbrXH805bf72KnvAvOjhtHIuWU8JnSg7seawDr_eOblLK1S)
-2. ...
+1. [Datasheeet of Ambient Light Sensor I2C](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf?srsltid=AfmBOopXsNbrXH805bf72KnvAvOjhtHIuWU8JnSg7seawDr_eOblLK1S)<br>
+2. [Tomas Fryza's DE2 repository](https://github.com/tomas-fryza/avr-course)<br>
+3. [Datasheeet of Soil moisture sensor v2.0](https://dratek.cz/docs/produkty/1/1862/1531824339.pdf)<br>
+4. [Datasheet of ATmega328p](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)<br>
+5. [Datasheet of Temperature and Humidity sensor DHT12](https://www.datasheet4u.com/datasheet-pdf/Aosong/DHT12/pdf.php?id=1147840)<br>
