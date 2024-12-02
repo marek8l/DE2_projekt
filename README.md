@@ -101,5 +101,5 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 
 ##  Reference a nástroje
 
-1. Put here the references and online tools you used.
+1. [Datasheeet of Ambient Light Sensor I2C](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf?srsltid=AfmBOopXsNbrXH805bf72KnvAvOjhtHIuWU8JnSg7seawDr_eOblLK1S)
 2. ...
