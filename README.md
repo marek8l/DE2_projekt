@@ -21,6 +21,7 @@ Použitý hardware:
 * Červená(IR) dioda
 * Ochranné rezistory
 * Tlačítka s aretací
+* Kabely a propojovací pole
 
 <br>
 
