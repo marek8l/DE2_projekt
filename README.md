@@ -95,7 +95,7 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 1. Zasuneme kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná čára.<br>
 2. Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.<br>
 3. Připojíme desku Arduino k napájecímu zdroji.<br>
-4. Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru [config.h](/include/config.h)<br>
+4. Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru [config.h](/tropical_plants/include/config.h)<br>
  Add photos or videos of your application. (neboj, bude)<br>
 
 ##  Reference a nástroje
