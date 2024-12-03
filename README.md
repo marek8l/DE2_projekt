@@ -107,7 +107,7 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 7.	V dalším kroku můžeme připojit tlačítka s aretací k ventilátoru a LED diodě reprezentující umělé osvětlení, pomocí kterých můžeme trvale vypnout dané prvky například při potřebě částeční manipulace s rostlinou, která nevyžaduje vypnutí celého systému.
 8.	Připojíme desku Arduino k napájecímu zdroji.
 9.	Spustíme program.
-10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h
+10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h <br>
 Add photos or videos of your application. (neboj, bude).<br>
 
 ##  Reference a nástroje
