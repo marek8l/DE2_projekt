@@ -105,3 +105,4 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 3. [Datasheeet of Soil moisture sensor v2.0](https://dratek.cz/docs/produkty/1/1862/1531824339.pdf)<br>
 4. [Datasheet of ATmega328p](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)<br>
 5. [Datasheet of Temperature and Humidity sensor DHT12](https://www.datasheet4u.com/datasheet-pdf/Aosong/DHT12/pdf.php?id=1147840)<br>
+6. [Source of all pictures used in Hardware description](https://dratek.cz/)<br>
