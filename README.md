@@ -54,7 +54,7 @@ Pro snímání teploty a vlhkosti ovzduší používáme senzor DHT12. Tento sen
 
 ### Senzor intenzity osvětlení BH1750
 
-Dále snímáme intenzitu osvětlení pomocí senzoru světla BH1750, získaná data zobrazujeme na OLED displeji. Tato data jsou zde používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity světla. V případě nizké intenzity světla dojde k rozsvícení diody. Pokud je hodnota světla dostačující, dioda zůstává vypnuta.<br>
+Dále snímáme intenzitu osvětlení pomocí senzoru intenzity osvětlení BH1750, získaná data zobrazujeme na OLED displeji. Tato data jsou používána k ovládání další LED diody (digitální PIN 10), která slouží k navýšení intenzity osvětlení. V případě nízké intenzity osvětlení dojde k rozsvícení diody. Pokud je hodnota intenzity osvětlení dostačující, dioda zůstává vypnuta.<br>
 
 <div align="center">
  
