@@ -65,7 +65,7 @@ Dále snímáme intenzitu osvětlení pomocí senzoru intenzity osvětlení BH17
 </div>
 
 ### OLED displej 
-OLED dispej s řadičem SH1106 se využívá k zobrazení všech hodnot změřených veličin. Také se používá k zobrazení hodnot, které chceme nastavit, jako hranice u kterých dojde k spuštění procesů jako jsou chlazení, ohřev atd.<br>
+OLED displej s řadičem SH1106 se využívá k zobrazení všech hodnot naměřených veličin. Také se používá k zobrazení hodnot, které chceme nastavit jako hranice, u kterých dojde ke spuštění procesů jako jsou chlazení, ohřev atd.<br>
 
 <div align="center">
  
