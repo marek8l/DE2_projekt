@@ -134,7 +134,7 @@ Stavový diagram:<br>
 4.	Dále připojíme řídící tranzistor IRF540 TO-220, který bude ovládat ventilátor.
 5.	Připojíme ventilátor k externímu zdroji a k řídícímu tranzistoru.
 6.	Ventilátor nastavíme do vhodné chladící polohy.
-7.	V dalším kroku můžeme připojit tlačítka s aretací k ventilátoru a LED diodě reprezentující umělé osvětlení, pomocí kterých můžeme trvale vypnout dané prvky například při potřebě částeční manipulace s rostlinou, která nevyžaduje vypnutí celého systému.
+7.	V dalším kroku můžeme připojit tlačítka s aretací k ventilátoru a LED diodě reprezentující umělé osvětlení, pomocí kterých můžeme trvale vypnout dané prvky například při potřebě částečné manipulace s rostlinou, která nevyžaduje vypnutí celého systému.
 8.	Připojíme desku Arduino k napájecímu zdroji.
 9.	Spustíme program.
 10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h
