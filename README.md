@@ -91,15 +91,14 @@ NMOS tranzistor plní funkci spínače. Při překročení thresholdu se vyšle 
 </div>
 <br>
 Knihovny a src soubory:<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br><br><br><br>
+* [ADC knihovna](https://github.com/marek8l/DE2_projekt/tree/main/tropical_plants/lib/adc)<br>
+* [GPIO knihovna](https://github.com/marek8l/DE2_projekt/tree/main/tropical_plants/lib/gpio)<br>
+* [OLED knihovna](https://github.com/marek8l/DE2_projekt/tree/main/tropical_plants/lib/oled)<br>
+* [TWI knihovna](https://github.com/marek8l/DE2_projekt/tree/main/tropical_plants/lib/twi)<br>
+* [UART knihovna](https://github.com/marek8l/DE2_projekt/tree/main/tropical_plants/lib/uart)<br>
+* [Include soubor timer.h](https://github.com/marek8l/DE2_projekt/blob/main/tropical_plants/include/timer.h)<br>
+* [Incude soubor config.h](https://github.com/marek8l/DE2_projekt/blob/main/tropical_plants/include/config.h)<br>
+* [SRC soubor(main)](https://github.com/marek8l/DE2_projekt/blob/main/tropical_plants/src/main.c)<br><br><br><br><br>
 Stavový diagram:<br>
 <div align="center">
  
