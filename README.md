@@ -13,7 +13,7 @@ Použitý hardware:
 * Půdní analogový vlhkoměr s antikorozní sondou v2.0
 * I2C OLED displej 1,3" 128 x 64
 * Chladící ventilátor - 5V, 30 mm
-* Senzor intenzity světla BH1750
+* Senzor intenzity osvětlení BH1750
 * NMOS tranzistor IRF540 TO-220
 
 <br>
