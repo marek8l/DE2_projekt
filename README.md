@@ -132,7 +132,7 @@ Stavový diagram:<br>
 9.	Spustíme program.
 10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h
 
-<span style="color:red;">
+<span style="color:red">
  
 Add photos or videos of your application. (neboj, bude).<br>
 
