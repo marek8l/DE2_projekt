@@ -98,11 +98,17 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 
 ## Instrukce a fotky
 
-1. Zasuneme kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná čára.<br>
-2. Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.<br>
-3. Připojíme desku Arduino k napájecímu zdroji.<br>
-4. Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru [config.h](/tropical_plants/include/config.h)<br>
- Add photos or videos of your application. (neboj, bude)<br>
+1.	Zasuneme kapacitní senzor vlhkosti půdy do půdy tak, aby nad povrchem byla viditelná pouze indikační ponorová čára.
+2.	Zapojíme zbývající senzory (DHT12, OLED, BH1750) pomocí I2C sběrnice.
+3.	Vhodně zapojíme diody reprezentující IR ohřívač a umělé osvětlení, a to včetně ochranných rezistorů.
+4.	Dále připojíme řídící tranzistor IRF540 TO-220, který bude ovládat ventilátor.
+5.	Připojíme ventilátor k externímu zdroji a k řídícímu tranzistoru.
+6.	Ventilátor nastavíme do vhodné chladící polohy.
+7.	V dalším kroku můžeme připojit tlačítka s aretací k ventilátoru a LED diodě reprezentující umělé osvětlení, pomocí kterých můžeme trvale vypnout dané prvky například při potřebě částeční manipulace s rostlinou, která nevyžaduje vypnutí celého systému.
+8.	Připojíme desku Arduino k napájecímu zdroji.
+9.	Spustíme program.
+10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h
+Add photos or videos of your application. (neboj, bude).<br>
 
 ##  Reference a nástroje
 
