@@ -87,6 +87,7 @@ NMOS tranzistor plní funkci spínače. Při překročení thresholdu se vyšle 
 </div>
 
 ## Popis Softwaru
+<div align="center">
 
 ![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
 <br>
