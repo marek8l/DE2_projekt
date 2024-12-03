@@ -88,6 +88,11 @@ NMOS tranzistor plní funkci spínače. Při překročení thresholdu se vyšle 
 
 ## Popis Softwaru
 
+![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
+<br>
+<i>obrázek č. 7 - Vývojový diagram </i>
+<br>
+</div>
 Include flowcharts/state diagrams of your algorithm(s) and direct links to the source files in PlatformIO `src` or `lib` folders. Present the libraries you used in the project.
 
 ## Instrukce a fotky
