@@ -118,7 +118,6 @@ Stavový diagram:<br>
 <i>obrázek č. 7 - Vývojový diagram </i>
 <br>
 </div>
-Include flowcharts/state diagrams of your algorithm(s) and direct links to the source files in PlatformIO `src` or `lib` folders. Present the libraries you used in the project.
 
 ## Instrukce a fotky
 
