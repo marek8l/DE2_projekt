@@ -16,6 +16,8 @@ Použitý hardware:
 * Senzor intenzity osvětlení BH1750
 * NMOS tranzistor IRF540 TO-220
 * Externí zdroj 5,4 V
+* Ochranné rezistory
+* Tlačítka s aretací
 
 <br>
 
