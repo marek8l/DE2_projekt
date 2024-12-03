@@ -15,6 +15,7 @@ Použitý hardware:
 * Chladící ventilátor - 5V, 30 mm
 * Senzor intenzity osvětlení BH1750
 * NMOS tranzistor IRF540 TO-220
+* Externí zdroj 5,4 V
 
 <br>
 
