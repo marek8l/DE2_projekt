@@ -17,7 +17,7 @@ Použitý hardware:
 * NMOS tranzistor IRF540 TO-220
 * Externí zdroj 5,4 V
 * Bílá LED dioda
-* Červená LED dioda
+* Červená(IR) dioda
 * Ochranné rezistory
 * Tlačítka s aretací
 
