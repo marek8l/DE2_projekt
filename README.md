@@ -102,7 +102,9 @@ Knihovny a src soubory:<br>
 []()<br>
 Stavový diagram:<br>
 <div align="center">
+ 
 ![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
+
 <br>
 <i>obrázek č. 7 - Vývojový diagram </i>
 <br>
