@@ -9,6 +9,7 @@ Systém pro měření/ovládání/vizualizace prostředí tropických rostlin. C
 
 ## Popis Hardwaru
 Použitý hardware:
+* Deska Arduino Uno
 * I2C teplotní a vlhkostní senzor DHT12
 * Půdní analogový vlhkoměr s antikorozní sondou v2.0
 * I2C OLED displej 1,3" 128 x 64
