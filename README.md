@@ -107,7 +107,9 @@ Knihovny a src soubory:<br>
 * [Incude soubor config.h](https://github.com/marek8l/DE2_projekt/blob/main/tropical_plants/include/config.h)<br>
 
 * [SRC soubor(main)](https://github.com/marek8l/DE2_projekt/blob/main/tropical_plants/src/main.c)<br><br><br><br><br>
+
 Stavový diagram:<br>
+
 <div align="center">
  
 ![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
