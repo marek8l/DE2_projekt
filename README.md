@@ -99,7 +99,7 @@ Knihovny a src soubory:<br>
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
+[]()<br><br><br><br>
 Stavový diagram:<br>
 <div align="center">
  
