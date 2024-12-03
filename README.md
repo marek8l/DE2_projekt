@@ -92,12 +92,11 @@ Include flowcharts/state diagrams of your algorithm(s) and direct links to the s
 
 ## Instrukce a fotky
 
-1. Zasuňte kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná linie.<br>
+1. Zasuneme kapacitní senzor vlhkosti do půdy tak, aby nad povrchem byla viditelná pouze varovná čára.<br>
 2. Připojíme ventilátor k externímu zdroji a nastavíme ho tak, aby správně chladil.<br>
-3. Připojte desku Arduino k napájecímu zdroji.<br>
-4. V konzoli nastavíme hodnoty na které se nás zeptá UART.<br>
-5. Pokud budeme chtít hodnoty změnit, zmáčkneme tlačítko RESET na desce arduina a znovu provedeme krok 4.<br>
- Add photos or videos of your application.<br>
+3. Připojíme desku Arduino k napájecímu zdroji.<br>
+4. Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru [config.h](/include/config.h)<br>
+ Add photos or videos of your application. (neboj, bude)<br>
 
 ##  Reference a nástroje
 
