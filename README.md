@@ -129,9 +129,9 @@ Stavový diagram:<br>
 ## Instrukce a fotky
 
 1.	Zasuneme kapacitní senzor vlhkosti půdy do půdy tak, aby nad povrchem byla viditelná pouze indikační ponorová čára.
-2.	Zapojíme zbývající senzory (DHT12, OLED, BH1750) pomocí I2C sběrnice.
-3.	Vhodně zapojíme diody reprezentující IR ohřívač a umělé osvětlení, a to včetně ochranných rezistorů.
-4.	Dále připojíme řídící tranzistor IRF540 TO-220, který bude ovládat ventilátor.
+2.	Zapojíme zbývající senzory (DHT12, OLED, BH1750).
+3.	Vhodně zapojíme diody reprezentující IR ohřívač a umělé osvětlení.
+4.	Dále připojíme řídící tranzistor IRF540 TO-220, který je potřebný k ovládání ventilátoru.
 5.	Připojíme ventilátor k externímu zdroji a k řídícímu tranzistoru.
 6.	Ventilátor nastavíme do vhodné chladící polohy.
 7.	V dalším kroku můžeme připojit tlačítka s aretací k ventilátoru a LED diodě reprezentující umělé osvětlení, pomocí kterých můžeme trvale vypnout dané prvky například při potřebě částečné manipulace s rostlinou, která nevyžaduje vypnutí celého systému.
@@ -139,7 +139,9 @@ Stavový diagram:<br>
 9.	Spustíme program.
 10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h.
 <br>
+
 [Video ukázka funkce projektu](https://youtube.com/shorts/QAH41s4pTNU?feature=share)
+
 <br>
 
 
