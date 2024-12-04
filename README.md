@@ -89,7 +89,7 @@ NMOS tranzistor plní funkci spínače. Při překročení thresholdu se vyšle 
 
 ![IRF540](https://github.com/marek8l/DE2_projekt/blob/main/images/IFR540.jpg)
 <br>
-<i>obrázek č. 6 - NMOS IRF540 </i>
+<i>obrázek č. 7 - NMOS IRF540 </i>
 <br>
 </div>
 
@@ -122,7 +122,7 @@ Stavový diagram:<br>
 ![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
 
 <br>
-<i>obrázek č. 7 - Vývojový diagram </i>
+<i>obrázek č. 8 - Stavový diagram </i>
 <br>
 </div>
 
