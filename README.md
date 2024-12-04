@@ -140,7 +140,11 @@ Stavový diagram:<br>
 10.	Pro úpravu hranic pro sepnutí externích zařízení, upravíme makra v souboru config.h.
 <br>
 
+<div align="center">
+ 
 [![Video ukázka funkce projektu](https://github.com/marek8l/DE2_projekt/blob/main/images/uvodni_fotka.png)](https://youtube.com/shorts/QAH41s4pTNU?feature=share)
+
+</div>
 
 <br>
 
