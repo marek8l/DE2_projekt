@@ -118,7 +118,6 @@ Knihovny a src soubory:<br>
 Stavový diagram:<br>
 
 <div align="center">
- 
 ![Diagram](https://github.com/marek8l/DE2_projekt/blob/main/images/vdiagram.jpg)
 
 <br>
@@ -141,7 +140,9 @@ Stavový diagram:<br>
 <br>
 
 <div align="center">
- 
+<br>
+![ilustrační foto](https://github.com/marek8l/DE2_projekt/blob/main/images/ilustracni_foto.jpg)
+<br>
 [![Video ukázka funkce projektu](https://github.com/marek8l/DE2_projekt/blob/main/images/uvodni_fotka.png)](https://youtube.com/shorts/QAH41s4pTNU?feature=share)
 
 </div>
