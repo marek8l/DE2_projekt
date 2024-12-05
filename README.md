@@ -143,7 +143,9 @@ Stavový diagram:<br>
 <div align="center">
 <br>
  
-![ilustrační foto](https://github.com/marek8l/DE2_projekt/blob/main/images/ilustracni_foto.jpg)
+![ilustrační fotografie](https://github.com/marek8l/DE2_projekt/blob/main/images/ilustracni_foto.jpg)
+<br>
+<i>obrázek č. 9 - Ilustrační fotografie</i>
 <br>
 
 [![Video ukázka funkce projektu](https://github.com/marek8l/DE2_projekt/blob/main/images/uvodni_fotka.png)](https://youtube.com/shorts/QAH41s4pTNU?feature=share)
