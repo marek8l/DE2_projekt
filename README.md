@@ -159,3 +159,4 @@ Stavový diagram:<br>
 6. [Source of all pictures used in Hardware description](https://dratek.cz/)<br>
 7. [Datasheet of NMOS transistor IRF540 TO-220](https://www.vishay.com/docs/91021/irf540.pdf)<br>
 8. [Source about plant environment](https://www.rostlinky.cz/blog/tropicke-rostliny-navod-na-pestovani.html)<br>
+9. [Tool for state diagram](https://app.diagrams.net/)<br>
