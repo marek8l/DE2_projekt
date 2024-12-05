@@ -149,7 +149,9 @@ Stavový diagram:<br>
 <br>
 
 [![Video ukázka funkce projektu](https://github.com/marek8l/DE2_projekt/blob/main/images/uvodni_fotka.png)](https://youtube.com/shorts/QAH41s4pTNU?feature=share)
-
+<br>
+<i>Ilustrační video</i>
+<br>
 </div>
 
 <br>
